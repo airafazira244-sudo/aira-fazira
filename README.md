@@ -1,2 +1,2 @@
 # aira-fazira
-buat tugas koding
+Proyek ini dibuat untuk memenuhi tugas koding
